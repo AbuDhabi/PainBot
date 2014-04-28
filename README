@@ -1,0 +1,23 @@
+PainBot - a dicebot for IRC.
+
+Requires:
+- Perl
+- Net::IRC
+- Math::Random::MT
+- Net::Ping::External
+
+Installation:
+1. Put it somewhere, make it executable.
+2. Edit painbot.pl and change the details you want in the first block of variables.
+2. Run "perl painbot.pl".
+3. Use "!help" to obtain help from the bot once it connects.
+
+F.A.Q.:
+Q: Perl::Net::IRC? EWWWW!
+A: Deal with it.
+
+Q: The bot hates me!
+A: That's not a question. Also, deal with it.
+
+Q: It gives me sub-average results.
+A: You are imagining things. Feel free to run Monte Carlo simulations.
